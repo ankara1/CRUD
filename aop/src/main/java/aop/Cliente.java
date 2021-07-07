@@ -2,7 +2,7 @@ package aop;
 
 public class Cliente {
 	
-	private String nombre;
+	private String nombre; 
 	private String tipo;
 	public String getNombre() {
 		return nombre;
