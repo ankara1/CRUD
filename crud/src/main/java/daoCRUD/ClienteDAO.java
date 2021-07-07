@@ -13,5 +13,4 @@ public interface ClienteDAO {
 	public CRUD getCliente(int iD);
 
 	public void borrar(int iD);
-
 }
