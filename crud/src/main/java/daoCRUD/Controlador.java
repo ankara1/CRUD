@@ -52,5 +52,4 @@ public class Controlador {
 		elDAO.borrar(ID);
 		return "redirect:/proyecto/lista";
 	}
-
 }
